@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marek/Pulpit/semestr 5/SCR  /DONE_decpihered_password/src/main.c
+producers.h
+/home/marek/Pulpit/semestr 5/SCR  /DONE_decpihered_password/src/producers.h
+consumers.h
+/home/marek/Pulpit/semestr 5/SCR  /DONE_decpihered_password/src/consumers.h
+
+inc/consumers.h
+dictionary.h
+inc/dictionary.h
+password.h
+inc/password.h
+
+inc/dictionary.h
+global_memory.h
+inc/global_memory.h
+password.h
+inc/password.h
+
+inc/dynamic_arrays.h
+function_to_string.h
+inc/function_to_string.h
+
+inc/function_to_string.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+
+inc/global_memory.h
+ctype.h
+-
+openssl/evp.h
+-
+openssl/md5.h
+-
+time.h
+-
+unistd.h
+-
+signal.h
+-
+pthread.h
+-
+dynamic_arrays.h
+inc/dynamic_arrays.h
+
+inc/password.h
+global_memory.h
+inc/global_memory.h
+
+inc/producers.h
+dictionary.h
+inc/dictionary.h
+password.h
+inc/password.h
+

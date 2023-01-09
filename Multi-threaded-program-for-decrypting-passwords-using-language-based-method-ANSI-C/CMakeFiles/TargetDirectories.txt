@@ -1,0 +1,3 @@
+/home/marek/Pulpit/semestr 5/SCR  /DONE_decpihered_password/CMakeFiles/rebuild_cache.dir
+/home/marek/Pulpit/semestr 5/SCR  /DONE_decpihered_password/CMakeFiles/edit_cache.dir
+/home/marek/Pulpit/semestr 5/SCR  /DONE_decpihered_password/CMakeFiles/password_deciphered.dir
